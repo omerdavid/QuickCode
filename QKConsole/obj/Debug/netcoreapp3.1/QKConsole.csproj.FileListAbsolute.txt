@@ -1,0 +1,13 @@
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\bin\Debug\netcoreapp3.1\QKConsole.exe
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\bin\Debug\netcoreapp3.1\QKConsole.deps.json
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\bin\Debug\netcoreapp3.1\QKConsole.runtimeconfig.json
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\bin\Debug\netcoreapp3.1\QKConsole.runtimeconfig.dev.json
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\bin\Debug\netcoreapp3.1\QKConsole.dll
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\bin\Debug\netcoreapp3.1\QKConsole.pdb
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\obj\Debug\netcoreapp3.1\QKConsole.AssemblyInfoInputs.cache
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\obj\Debug\netcoreapp3.1\QKConsole.AssemblyInfo.cs
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\obj\Debug\netcoreapp3.1\QKConsole.csproj.CoreCompileInputs.cache
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\obj\Debug\netcoreapp3.1\QKConsole.dll
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\obj\Debug\netcoreapp3.1\QKConsole.pdb
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\obj\Debug\netcoreapp3.1\QKConsole.genruntimeconfig.cache
+C:\Users\omerd\source\repos\QuickCodeTest\QKConsole\obj\Debug\netcoreapp3.1\QKConsole.csprojAssemblyReference.cache

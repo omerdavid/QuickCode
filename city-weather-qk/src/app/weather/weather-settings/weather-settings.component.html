@@ -1,0 +1,26 @@
+<div class="w-100">
+<div class="row">
+    <div class="form-group">
+           
+          
+        <button class="btn btn-default" (click)='back()'>Back</button>
+    </div>
+</div>
+
+   <form [formGroup]='weatherForm'>
+    <select class="custom-select"  formControlName="city">
+      <option value="" disabled>Choose your city</option>
+      <option *ngFor="let city of weatherSrv.cities" [ngValue]="city">{{city.name}}</option>
+   </select>
+   <select class="custom-select mt-2"  formControlName="unit" >
+    <option value="" disabled>Choose your Unit</option>
+    <option  *ngFor="let item of weatherSrv.neeededUnits" [ngValue]="item">{{item.name}}</option>
+ </select>
+       
+          <button class="btn btn-default mt-2" (click)="save()">Save</button>
+    
+  </form>
+   
+
+</div>
+

@@ -1,0 +1,16 @@
+<div class="toolbar d-flex justify-content-between" role="banner">
+ 
+  <img  width="80" src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png">
+ 
+  <span>{{ title }}</span>
+   <div>
+    <button routerLink='settings' *ngIf='isSettingPage' style="color: white;" class="btn btn-default">Settings</button>
+  </div>
+</div>
+
+<div class="content w-100" role="main">
+ <router-outlet></router-outlet>
+ 
+  </div>
+
+  
